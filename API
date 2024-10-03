@@ -1,0 +1,31 @@
+// código omitido
+
+const layout = {
+  plot_bgcolor: getCSS('--bg-color'),
+  paper_bgcolor: getCSS('--bg-color'),
+  title: {
+    text: 'Notas Escolares',
+    x: 0
+    font: {
+        color: getCSS("--primary.color"),
+        family: getCSS("--font")
+        size: 30
+    }
+},
+  xaxis: {
+  
+  },
+  yaxis: {
+        /* código omitido */
+
+.grafico {
+    margin-top: 3rem;
+}
+
+/* código omitido */
+        )
+    }
+  }
+}
+
+// código omitido
